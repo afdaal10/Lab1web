@@ -1,8 +1,12 @@
-*Nama : Afdhal Agislam*
-*NIM : 312410445*
-*Kelas : TI.24.A5*
+# Identitas Mahasiswa
 
-*HASIL OUTPUT*
+**Nama :** Afdhal Agislam  
+**NIM :** 312410445  
+**Kelas :** TI.24.A5  
+
+---
+
+## HASIL OUTPUT
 
 <img width="959" height="539" alt="image" src=Gambar.png />
 
@@ -17,7 +21,7 @@ Tujuan utama dari latihan ini adalah agar mahasiswa mampu:
 
 ---
 
-## Deskripsi
+
 <h2>Deskripsi</h2>
 <p>Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:</p>
 <ul>
