@@ -8,8 +8,12 @@
 
 # Belajar HTML
 
-Proyek ini merupakan latihan *HTML dasar* pada mata kuliah Pemrograman Web di Prodi *Teknik Informatika Universitas Pelita Bangsa*.  
-Tujuan utama dari latihan ini adalah memahami penggunaan tag-tag HTML dasar untuk membuat halaman web sederhana.
+Proyek ini merupakan latihan **HTML dasar** pada mata kuliah *Pemrograman Web* di Prodi **Teknik Informatika Universitas Pelita Bangsa**.  
+Tujuan utama dari latihan ini adalah agar mahasiswa mampu:
+
+- Memahami konsep dasar **struktur HTML**.  
+- Menggunakan tag-tag HTML untuk menampilkan konten di halaman web.  
+- Membuat halaman web sederhana yang rapi, terstruktur, dan mudah dipahami.  
 
 ---
 
