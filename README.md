@@ -6,7 +6,7 @@
 
 <img width="959" height="539" alt="image" src=Gambar.png />
 
-# Day1 Belajar HTML
+# Belajar HTML
 
 Proyek ini merupakan latihan *HTML dasar* pada mata kuliah Pemrograman Web di Prodi *Teknik Informatika Universitas Pelita Bangsa*.  
 Tujuan utama dari latihan ini adalah memahami penggunaan tag-tag HTML dasar untuk membuat halaman web sederhana.
