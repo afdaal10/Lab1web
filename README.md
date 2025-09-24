@@ -21,6 +21,7 @@ Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 - *Gambar* (<img>)
 - *Hyperlink* (<a>)
 
+## PENJELASAN CODE
 - <!DOCTYPE html>
 <html>
 <head>
