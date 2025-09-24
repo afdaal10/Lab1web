@@ -82,47 +82,13 @@ Tujuan utama dari latihan ini adalah agar mahasiswa mampu:
 
 ## 📖 Tabel Ringkasan Tag Dasar
 
-| Tag          | Fungsi                                           | Contoh |
-|--------------|--------------------------------------------------|--------|
-| `<!DOCTYPE>` | Menentukan tipe dokumen HTML                     | `<!DOCTYPE html>` |
-| `<html>`     | Elemen root/utama dokumen HTML                   | `<html lang="id"> ... </html>` |
-| `<head>`     | Berisi metadata dokumen (tidak tampil di halaman)| `<head><title>Judul</title></head>` |
-| `<title>`    | Judul halaman (muncul di tab browser)            | `<title>Belajar HTML</title>` |
-| `<meta>`     | Informasi tambahan (charset, viewport, SEO)      | `<meta charset="UTF-8">` |
-| `<body>`     | Isi utama halaman (konten yang terlihat)         | `<body>Konten</body>` |
-| `<h1>–<h6>`  | Heading/judul dengan tingkatan 1–6               | `<h2>Subjudul</h2>` |
-| `<p>`        | Paragraf teks                                    | `<p>Ini paragraf.</p>` |
-| `<a>`        | Hyperlink / tautan ke halaman lain               | `<a href="https://example.com">Link</a>` |
-| `<img>`      | Menampilkan gambar                               | `<img src="gambar.png" alt="Gambar">` |
-| `<hr>`       | Garis horizontal pemisah                         | `<hr>` |
-| `<br>`       | Line break (pindah baris)                        | `Teks<br>Baru` |
-| `<strong>`   | Teks penting / ditebalkan                        | `<strong>Important</strong>` |
-| `<b>`        | Teks tebal (tanpa makna semantik)                | `<b>Teks Tebal</b>` |
-| `<em>`       | Teks miring (emphasis)                           | `<em>Penekanan</em>` |
-| `<i>`        | Teks miring (tanpa makna semantik)               | `<i>Teks Miring</i>` |
-| `<span>`     | Inline container (bisa diberi style)             | `<span style="color:red;">Teks</span>` |
-| `<div>`      | Block container untuk mengelompokkan elemen      | `<div>Konten</div>` |
-| `<header>`   | Bagian kepala halaman / section                  | `<header>Judul</header>` |
-| `<nav>`      | Bagian navigasi link                             | `<nav><a href="#">Menu</a></nav>` |
-| `<section>`  | Bagian konten/section tertentu                   | `<section>Isi Section</section>` |
-| `<footer>`   | Bagian bawah halaman                             | `<footer>Hak Cipta</footer>` |
-| `<ul>`       | Daftar tidak berurutan (bullet list)             | `<ul><li>Item</li></ul>` |
-| `<ol>`       | Daftar berurutan (angka/huruf)                   | `<ol><li>Item</li></ol>` |
-| `<li>`       | Item dalam daftar                                | `<li>List item</li>` |
-| `<table>`    | Membuat tabel                                    | `<table>...</table>` |
-| `<tr>`       | Baris dalam tabel                                | `<tr><td>Data</td></tr>` |
-| `<th>`       | Header kolom pada tabel                          | `<th>Judul Kolom</th>` |
-| `<td>`       | Data sel pada tabel                              | `<td>Isi</td>` |
-| `<form>`     | Membuat form input                               | `<form>...</form>` |
-| `<input>`    | Elemen input (teks, tombol, checkbox, dll.)      | `<input type="text">` |
-| `<button>`   | Tombol interaktif                                | `<button>Klik</button>` |
-| `<label>`    | Label untuk elemen form                          | `<label for="nama">Nama:</label>` |
-| `<textarea>` | Input teks multi-baris                           | `<textarea></textarea>` |
-| `<select>`   | Dropdown pilihan                                 | `<select><option>A</option></select>` |
-| `<option>`   | Opsi dalam dropdown                              | `<option>Opsi 1</option>` |
-| `<script>`   | Menyisipkan JavaScript                           | `<script>alert("Hi")</script>` |
-| `<link>`     | Menghubungkan file eksternal (CSS, favicon, dll.)| `<link rel="stylesheet" href="style.css">` |
-| `<style>`    | Menyisipkan CSS langsung di HTML                 | `<style>p {color: red;}</style>` |
-
-
+| Tag         | Fungsi                       | Contoh                                   |
+| ----------- | ---------------------------- | ---------------------------------------- |
+| `<h1>–<h6>` | Judul dengan tingkat berbeda | `<h1>Judul</h1>`                         |
+| `<p>`       | Paragraf teks                | `<p>Teks</p>`                            |
+| `<a>`       | Hyperlink                    | `<a href="https://example.com">Link</a>` |
+| `<img>`     | Menampilkan gambar           | `<img src="gambar.png" alt="deskripsi">` |
+| `<strong>`  | Teks tebal                   | `<strong>Teks</strong>`                  |
+| `<em>`      | Teks miring                  | `<em>Teks</em>`                          |
+| `<footer>`  | Bagian bawah halaman         | `<footer>Footer</footer>`                |
 
