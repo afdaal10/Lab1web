@@ -68,7 +68,7 @@ Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 </body>
 </html>
 
-*tampilan code*
+## tampilan code
 
 <img width="959" height="539" alt="image" src= Tampilan code html.png/>
 
