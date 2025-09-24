@@ -79,12 +79,15 @@ Tujuan utama dari latihan ini adalah agar mahasiswa mampu:
 </body>
 </html>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Tag HTML Dasar - Belajar HTML</title>
-  <meta name="description" content="Contoh halaman sederhana untuk latihan tag-tag HTML dasar.">
-</head>
+| Tag         | Fungsi                       | Contoh                                   |
+| ----------- | ---------------------------- | ---------------------------------------- |
+| `<h1>–<h6>` | Judul dengan tingkat berbeda | `<h1>Judul</h1>`                         |
+| `<p>`       | Paragraf teks                | `<p>Teks</p>`                            |
+| `<a>`       | Hyperlink                    | `<a href="https://example.com">Link</a>` |
+| `<img>`     | Menampilkan gambar           | `<img src="gambar.png" alt="deskripsi">` |
+| `<strong>`  | Teks tebal                   | `<strong>Teks</strong>`                  |
+| `<em>`      | Teks miring                  | `<em>Teks</em>`                          |
+| `<footer>`  | Bagian bawah halaman         | `<footer>Footer</footer>`                |
 
 
 
