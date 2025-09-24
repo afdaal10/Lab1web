@@ -4,7 +4,7 @@
 
 *HASIL OUTPUT*
 
-<img width="959" height="539" alt="image" src="https://github.com/afdaal10/Lab1web/blob/f1f82b7ec5fd857b0a69e19047261929c4d444d6/Tampilan%20gambar.png />
+<img width="959" height="539" alt="image" src="https://github.com/afdaal10/Lab1web/blob/f1f82b7ec5fd857b0a69e19047261929c4d444d6/Gambar.png />
 
 # Day1 Belajar HTML
 
