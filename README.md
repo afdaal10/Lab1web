@@ -15,8 +15,10 @@ Tujuan utama dari latihan ini adalah memahami penggunaan tag-tag HTML dasar untu
 
 ## Deskripsi
 Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
-- *Heading* (<h1>, <h2>, dll.)
-- *Paragraf* (<p>)
+- *Heading*
+- (<h1>, <h2>, dll.)
+- *Paragraf*
+-  (<p>)
 - *Teks dengan format khusus* (tebal, miring, mark / highlight)
 - *Gambar* (<img>)
 - *Hyperlink* (<a>)
