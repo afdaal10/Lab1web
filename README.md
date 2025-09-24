@@ -14,12 +14,15 @@ Tujuan utama dari latihan ini adalah memahami penggunaan tag-tag HTML dasar untu
 ---
 
 ## Deskripsi
-Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
-- *Heading*(<h1>, <h2>, dll.)
-- *Paragraf* (<p>)
-- *Teks dengan format khusus* (tebal, miring, mark / highlight)
-- *Gambar* (<img>)
-- *Hyperlink* (<a>)
+<h2>Deskripsi</h2>
+<p>Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:</p>
+<ul>
+  <li><em>Heading</em> (&lt;h1&gt;, &lt;h2&gt;, dll.)</li>
+  <li><em>Paragraf</em> (&lt;p&gt;)</li>
+  <li><em>Teks dengan format khusus</em> (tebal, miring, mark / highlight)</li>
+  <li><em>Gambar</em> (&lt;img&gt;)</li>
+  <li><em>Hyperlink</em> (&lt;a&gt;)</li>
+</ul>
 
 ## PENJELASAN CODE
 - <!DOCTYPE html>
