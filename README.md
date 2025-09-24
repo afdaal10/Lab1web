@@ -79,6 +79,51 @@ Tujuan utama dari latihan ini adalah agar mahasiswa mampu:
 </body>
 </html>
 
+<!DOCTYPE html>
+Menandakan dokumen ini adalah HTML5. Wajib ditempatkan di baris pertama agar browser merender sesuai standar modern.
+
+<html lang="id">
+Atribut lang="id" memberi tahu browser dan pembaca layar (screen reader) bahwa bahasa utama halaman ini adalah Bahasa Indonesia.
+
+<head>
+Bagian metadata: charset, viewport, title, meta description, dan style minimal untuk preview.
+
+meta charset="utf-8" memastikan karakter non-ASCII tampil benar.
+
+meta name="viewport" penting untuk tampilan responsif pada perangkat mobile.
+
+<title> teks yang muncul pada tab browser.
+
+meta description membantu SEO / ringkasan halaman.
+
+<style> (opsional di head)
+Styling singkat agar contoh terlihat rapi saat dilihat tanpa file CSS terpisah. Untuk proyek nyata, lebih baik buat file CSS terpisah.
+
+<body> — struktur semantik:
+
+<header>: area atas halaman (navigasi + judul).
+
+<nav>: link navigasi internal/eksternal. Atribut target="_blank" untuk membuka link eksternal di tab baru, rel="noopener noreferrer" untuk keamanan.
+
+<main>: konten utama (paragraf, section). Gunakan elemen semantik (section, article) untuk struktur yang jelas.
+
+<footer>: informasi footer.
+
+Teks & format:
+
+<h1>, <h2>, <h3> untuk judul/heading (hierarki penting untuk aksesibilitas/SEO).
+
+<p> untuk paragraf. Hindari atribut HTML lama seperti align="center"; gunakan CSS (style="text-align:center;" atau file CSS).
+
+<strong> untuk teks tebal (penting), <em> untuk miring (penekanan).
+
+<code> untuk menampilkan kode/tag di dalam paragraf.
+
+Gambar:
+
+<img src="Logo_UPB.png" alt="..." width="200" title="...">
+alt wajib untuk aksesibilitas (pembaca layar dan bila gambar gagal dimuat). src harus path benar (perhatikan nama file — jangan Logo_UPB.png.png kecuali memang begitu nama filenya).
+
 
 ## 📖 Tabel Ringkasan Tag Dasar
 
