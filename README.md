@@ -79,4 +79,12 @@ Tujuan utama dari latihan ini adalah agar mahasiswa mampu:
 </body>
 </html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tag HTML Dasar - Belajar HTML</title>
+  <meta name="description" content="Contoh halaman sederhana untuk latihan tag-tag HTML dasar.">
+</head>
+
+
 
