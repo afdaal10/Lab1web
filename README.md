@@ -34,7 +34,7 @@ Tujuan utama dari latihan ini adalah agar mahasiswa mampu:
 
 ## PENJELASAN CODE
 
-- <!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <head>
     <title>Tag HTML Dasar</title>
